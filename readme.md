@@ -17,7 +17,7 @@ User can see coffee menu and choose one of them by entering coffee type number.
 ### With maven command line
 ```
 git clone https://github.com/mustafacalik/coffee-shop.git
-cd scheduler
+cd coffee-shop
 ./mvnw spring-boot:run
 ```
 
